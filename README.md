@@ -35,9 +35,9 @@ My journey combines rigorous academic research with hands-on experience in globa
 ## 📫 Let's Connect!
 * 📧 **Email:** [ahmed.a2gubran@gmail.com](mailto:ahmed.a2gubran@gmail.com) 
 * 🔗 **LinkedIn:** [Ahmed Gubran](https://www.linkedin.com/in/ahmed-gubran-66493323a) 
-* 📍 **Location:** Cyberjaya, Selangor, Malaysia [cite: 93]
+* 📍 **Location:** Cyberjaya, Selangor, Malaysia 
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=medo-w&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
 </p>
